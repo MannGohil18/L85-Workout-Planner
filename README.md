@@ -2,8 +2,15 @@
 
 **Student:** MAN GOHIL | **Roll:** B11 | **Division:** H | **Enrollment:** 24004501210097
 
-## Problem
-Build a weekly workout planner that shows today's plan and tracks completed sessions.
+
+## Project Guide
+This project was completed under the guidance of
+**Dr. Anjum Y. Mansuri**, Assistant Professor, Computer Applications,
+LJ Institute of Computer Applications, LJ University, Ahmedabad.
+GitHub: [@anjum-mansuri](https://github.com/anjum-mansuri)
+
+
+Linux students write: OS Linux Lab 260120510 | Project ID: L85
 
 ## Who will use it
 Gym beginners.
